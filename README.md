@@ -1,4 +1,3 @@
-# sheepface
-基于Inception的羊脸识别
+羊脸识别
 
-model和resnet18中是模型，train里是训练模型的代码
+model和resnet50中是模型，train里是训练模型的代码
